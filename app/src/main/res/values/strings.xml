@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="login_button">Login Button</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create Account?</string>
+    <string name="option">Or</string>
+</resources>
