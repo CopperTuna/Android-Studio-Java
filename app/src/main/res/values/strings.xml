@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NewApplication</string>
+    <string name="button_name">Start Quiz</string>
+    <string name="question1">Question 1</string>
+    <string name="question">Who created java?</string>
+    <string name="answer1">A.) James Gosling</string>
+    <string name="answer2">B.) James Ryan</string>
+    <string name="answer3">C.) James Bryan</string>
+    <string name="answer4">D.) James Bry</string>
+    <string name="question2">Question 2</string>
+    <string name="question_">Who is the father of computer?</string>
+    <string name="a1">A.) Charles Babbage</string>
+    <string name="a2">B.) Charles Bavvage</string>
+    <string name="a3">C.) Charlie Babbage</string>
+    <string name="a4">D.) Charles Darwin</string>
+    <string name="question3">Question 3</string>
+    <string name="question_1">Who is the first computer programmer?</string>
+    <string name="an1">A.) Ada Lovelace</string>
+    <string name="an2">B.) Adam Lovelace</string>
+    <string name="an3">C.) Ada Laplace</string>
+    <string name="an4">D.) Adam Laplace</string>
+    <string name="question4">Question 4</string>
+    <string name="question_2">What is not a programming language?</string>
+    <string name="ans1">A.) Python</string>
+    <string name="ans2">B.) JavaScript</string>
+    <string name="ans3">C.) Java</string>
+    <string name="ans4">D.) HTML</string>
+    <string name="question5">Question 5</string>
+    <string name="question_3">Who is the creator of this application?</string>
+    <string name="ansss1">A.) Baguio, Froilan</string>
+    <string name="ansss2">B.) Planos, Anthony</string>
+    <string name="ansss3">C.) Ticse, Shanon</string>
+    <string name="ansss4">D.) Licaros, Pia</string>
+    <string name="score">You score is:</string>
+</resources>
