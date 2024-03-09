@@ -1,4 +1,4 @@
-package com.example.newapplication;
+package com.example.practice;
 
 import org.junit.Test;
 
