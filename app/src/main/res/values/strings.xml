@@ -5,4 +5,7 @@
     <string name="login">Login</string>
     <string name="sign_in_with">or sign in with</string>
     <string name="register_here">not a member yet? Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_with">or sign up with</string>
+    <string name="member">Already a member? sign in</string>
 </resources>
